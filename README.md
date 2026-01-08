@@ -1,13 +1,26 @@
-<h1 align="center">👋 Oi, eu sou o Eduardoalbring!</h1>
-<p align="center">Dev em evolução | Sempre aprendendo e criando projetos 🚀</p>
+<h1 align="center">👋 Oi, eu sou o Eduardo Albring</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Eduardoalbring&show_icons=true&theme=dark" />
+  Futuro desenvolvedor • Construindo projetos e evoluindo constantemente 🚀
 </p>
+
+<br>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=Eduardoalbring&show_icons=true&theme=radical"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Eduardoalbring&layout=compact&theme=radical"
+    height="165"
+  />
+</div>
+
+<br><br>
+
+<h2 align="center">💻 Tecnologias</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Eduardoalbring&layout=compact&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java" />
 </p>
-
-## 💻 Tecnologias
-HTML5 • CSS3 • JavaScript • JAVA • C# • SQL • Ruby
