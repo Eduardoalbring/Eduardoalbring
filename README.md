@@ -8,11 +8,11 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats-one-bice.vercel.app/api?username=Eduardoalbring&show_icons=true&theme=radical"
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=Eduardoalbring&show_icons=true&theme=dark"
     height="165"
   />
   <img
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Eduardoalbring&layout=compact&theme=radical"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Eduardoalbring&layout=compact&theme=dark"
     height="165"
   />
 </div>
