@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">👋 Oi, eu sou o Eduardoalbring!</h1>
+<p align="center">Dev em evolução | Sempre aprendendo e criando projetos 🚀</p>
 
-<!--
-**Eduardoalbring/Eduardoalbring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardoalbring&show_icons=true&theme=radical" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoalbring&layout=compact&theme=radical" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💻 Tecnologias
+HTML5 • CSS3 • JavaScript
