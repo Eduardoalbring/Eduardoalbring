@@ -1,4 +1,4 @@
-<h1 align="center">👋 Oi, eu sou o Eduardo Albring</h1>
+<h1 align="center"> Olá! Sou o Eduardo Albring</h1>
 
 <p align="center">
   Futuro desenvolvedor • Construindo projetos e evoluindo constantemente 🚀
